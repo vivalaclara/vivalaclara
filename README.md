@@ -5,7 +5,7 @@
 - ♀️ Pronouns: she/her 
 - 💬 Languages I speak: Portuguese & English
 - 👯 I’m looking to collaborate on any projects that need front-end development, especially those that are mobile-focused. 
-- 🌱 I’m currently working on React/React Native projects using Typescript, and planning to learn more about Flutter in the nearby future
+- 🌱 I’m currently working on React/React Native projects using Typescript
 - ✨ Fun Fact: I'm a painter as a hobby, but if I weren't a dev, I'd like to be an astronomer ☆
 
 
