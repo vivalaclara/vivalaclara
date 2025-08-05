@@ -5,7 +5,7 @@
 - ♀️ Pronouns: she/her 
 - 💬 Languages I speak: Portuguese & English
 - 👯 I’m looking to collaborate on any projects that need front-end development, especially those that are mobile-focused. 
-- 🌱 I’m currently working on React/React Native projects using Typescript
+- 🌱 I’m currently working on React Native projects using Typescript and learning Ruby on Rails ^^  
 - ✨ Fun Fact: I'm a painter as a hobby, but if I weren't a dev, I'd like to be an astronomer ☆
 
 
@@ -16,3 +16,4 @@
 - PostgreSQL
 - Node.js 
 - Java/Springboot 
+- Learning Ruby on Rails
