@@ -1,6 +1,6 @@
 ### 🌙 About me! 
-- 👩‍💻 Hello, I'm Clara Maestri, welcome to my profile! (´꒳`)♡. I'm 23 years old and I'm from Espírito Santo, Brazil.
-- 📖 Information Systems undergraduate
+- 👩‍💻 Hello, I'm Clara Maestri, welcome to my profile! (´꒳`)♡. I'm 24 years old and I'm from Espírito Santo, Brazil.
+- 📖 Graduated on Information Systems with a bachelor's degree
 - 📱 Front-end web/mobile developer, with a special interest in UX/UI design
 - ♀️ Pronouns: she/her 
 - 💬 Languages I speak: Portuguese & English
