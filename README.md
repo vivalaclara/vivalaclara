@@ -17,4 +17,4 @@
 - PostgreSQL
 - Node.js 
 - Java/Springboot 
-- Learning Ruby on Rails
+- Ruby on Rails
